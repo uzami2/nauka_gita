@@ -4,5 +4,5 @@ function srednia (a, b)
 }
 function wazona (a,b)
 {
-	return (a*7 + b*3)/2;
+	return (a*9 + b*1)/2;
 }
